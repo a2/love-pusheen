@@ -1,0 +1,35 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Alexsander Akers",
+    "longName": "Love Pusheen",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/pusheen-3.png",
+                "name": "IMAGE_PUSHEEN_3",
+                "type": "png"
+            },
+            {
+                "file": "images/pusheen-2.png",
+                "name": "IMAGE_PUSHEEN_2",
+                "type": "png"
+            },
+            {
+                "file": "images/pusheen-1.png",
+                "name": "IMAGE_PUSHEEN_1",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Love Pusheen",
+    "uuid": "75e41798-08d8-4a45-a115-1f6fefa10d70",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
